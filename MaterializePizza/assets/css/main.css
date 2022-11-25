@@ -1,0 +1,16 @@
+.s-img{
+    filter: brightness(0.3);
+}
+
+*{
+    scroll-behavior: smooth;
+}
+
+img{
+    max-width: 100%;
+}
+
+
+ .input-field  {
+   color: white !important;
+ }
